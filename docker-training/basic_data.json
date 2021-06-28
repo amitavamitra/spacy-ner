@@ -1,0 +1,18 @@
+{"classes":["MEABM","GEWEI","LAENG","BRGEW","BREIT","HOEHE","EAN11","NETGW","MATKX"],
+"annotations":[
+	       ["I am 177 cm tall.",{"entities":[[9, 11, "MEABM"]]}],
+	       ["Intel Lenovo Laptop is a good laptop",{"entities":[[0, 19, "MATKX"]]}],
+	       ["The product is categorised as 0010",{"entities":[[30, 34, "MATKL"]]}],
+	       ["The length is 300 cm.",{"entities":[[14,17,"LAENG"],[18, 20, "MEABM"]]}],
+	       ["The BREIT is 200 meters long",{"entities":[[17, 23, "MEABM"]]}],
+	       ["The tree is quite tall around 5 meters and its branches are 10 cm and is cone shaped ",{"entities":[[32, 38,"MEABM"],[63, 65,"MEABM"]]}],
+		   ["The gross weight is 95 KG",{"entities":[[23, 25, "GEWEI"],[20,22,"NETGW"]]}],
+		   ["The new product is of length 1000 cm",{"entities":[[29, 33, "LAENG"],[34,36 ,"MEABM"]]}],
+		   ["The width is 657 cm",{"entities":[[13, 16, "BREIT"], [17,19,"MEABM"]]}],
+		   ["it has a HOEHE of 455 cm",{"entities":[[19, 22, "HOEHE"]]}],
+		["The EAN code is 55324324324387",{"entities":[[16, 30, "EAN11"]]}],
+		["Weight is 110 Kg in net and 115 Kg in gross",{"entities":[[10, 13, "NETGW"], [14,16,"GEWEI"],[32,34,"GEWEI"],[28, 31, "BRGEW"]]}],
+		["The net and gross weights are 110 and 115 KG respectively",{"entities":[[30, 33, "NETGW"],[38, 41, "BRGEW"],[42, 44, "GEWEI"]]}]
+	
+	      ]
+}
